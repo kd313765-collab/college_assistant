@@ -1,0 +1,6 @@
+SUBJECT: Database Management System (DBMS) BCS501
+UNIT 1: Introduction - database system vs file system, architecture, data independence, DDL, DML, ER model concepts, keys, generalization, aggregation, reduction of ER diagram to tables, extended ER model.
+UNIT 2: Relational data model and language - integrity constraints, relational algebra, relational calculus, SQL basics and commands, operators, views and indexes, queries and sub queries, aggregate functions, joins, unions, cursors, triggers, procedures in SQL/PL SQL.
+UNIT 3: Database design and normalization - functional dependencies, normal forms (1NF, 2NF, 3NF, BCNF), lossless join decomposition, multivalued dependency, join dependency.
+UNIT 4: Transaction processing - transaction system, serializability of schedules, conflict and view serializable schedule, recoverability, recovery from transaction failures, log based recovery, checkpoints, deadlock handling, distributed database.
+UNIT 5: Concurrency control techniques - locking techniques, time stamping protocols, validation based protocol, multiple granularity, multi version schemes, recovery with concurrent transaction, case study of Oracle.

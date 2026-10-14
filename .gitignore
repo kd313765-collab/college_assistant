@@ -1,0 +1,24 @@
+# secrets (sabse zaruri)
+.env
+*.env
+
+# python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# database aur uploads
+backend/college.db
+*.db
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# frontend
+node_modules/
+dist/
+
+# editor aur system files
+.vscode/
+.DS_Store
+Thumbs.db

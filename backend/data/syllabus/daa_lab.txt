@@ -1,0 +1,2 @@
+SUBJECT: Design and Analysis of Algorithm Lab (BCS553)
+PROGRAMS: Recursive binary and linear search, heap sort, merge sort, selection sort, insertion sort, quick sort, knapsack using greedy, travelling salesman, minimum spanning tree using Kruskal, N Queen using backtracking, 0/1 knapsack using dynamic programming and greedy, Dijkstra shortest path, Prim's algorithm, Floyd all pairs shortest path, subset sum, Hamiltonian cycles using backtracking.

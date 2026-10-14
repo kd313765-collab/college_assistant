@@ -1,0 +1,61 @@
+roll_no,student_name,subject_code,subject_name,marks,max_marks
+R001,Aarav Singh,BCS501,Database Management System,63,100
+R001,Aarav Singh,BCS503,Design and Analysis of Algorithm,41,100
+R001,Aarav Singh,BCS054,Object Oriented System Design with C++,72,100
+R001,Aarav Singh,BCDS501,Introduction to Data Analytics and Visualization,28,100
+R001,Aarav Singh,BCAI052,Natural Language Processing,31,100
+R002,Priya Verma,BCS501,Database Management System,90,100
+R002,Priya Verma,BCS503,Design and Analysis of Algorithm,34,100
+R002,Priya Verma,BCS054,Object Oriented System Design with C++,68,100
+R002,Priya Verma,BCDS501,Introduction to Data Analytics and Visualization,29,100
+R002,Priya Verma,BCAI052,Natural Language Processing,86,100
+R003,Rohit Yadav,BCS501,Database Management System,49,100
+R003,Rohit Yadav,BCS503,Design and Analysis of Algorithm,26,100
+R003,Rohit Yadav,BCS054,Object Oriented System Design with C++,33,100
+R003,Rohit Yadav,BCDS501,Introduction to Data Analytics and Visualization,77,100
+R003,Rohit Yadav,BCAI052,Natural Language Processing,75,100
+R004,Neha Gupta,BCS501,Database Management System,30,100
+R004,Neha Gupta,BCS503,Design and Analysis of Algorithm,52,100
+R004,Neha Gupta,BCS054,Object Oriented System Design with C++,33,100
+R004,Neha Gupta,BCDS501,Introduction to Data Analytics and Visualization,92,100
+R004,Neha Gupta,BCAI052,Natural Language Processing,76,100
+R005,Kunal Sharma,BCS501,Database Management System,29,100
+R005,Kunal Sharma,BCS503,Design and Analysis of Algorithm,94,100
+R005,Kunal Sharma,BCS054,Object Oriented System Design with C++,37,100
+R005,Kunal Sharma,BCDS501,Introduction to Data Analytics and Visualization,50,100
+R005,Kunal Sharma,BCAI052,Natural Language Processing,29,100
+R006,Sneha Mishra,BCS501,Database Management System,72,100
+R006,Sneha Mishra,BCS503,Design and Analysis of Algorithm,28,100
+R006,Sneha Mishra,BCS054,Object Oriented System Design with C++,50,100
+R006,Sneha Mishra,BCDS501,Introduction to Data Analytics and Visualization,27,100
+R006,Sneha Mishra,BCAI052,Natural Language Processing,93,100
+R007,Aditya Pandey,BCS501,Database Management System,39,100
+R007,Aditya Pandey,BCS503,Design and Analysis of Algorithm,59,100
+R007,Aditya Pandey,BCS054,Object Oriented System Design with C++,75,100
+R007,Aditya Pandey,BCDS501,Introduction to Data Analytics and Visualization,40,100
+R007,Aditya Pandey,BCAI052,Natural Language Processing,91,100
+R008,Isha Tripathi,BCS501,Database Management System,37,100
+R008,Isha Tripathi,BCS503,Design and Analysis of Algorithm,61,100
+R008,Isha Tripathi,BCS054,Object Oriented System Design with C++,93,100
+R008,Isha Tripathi,BCDS501,Introduction to Data Analytics and Visualization,45,100
+R008,Isha Tripathi,BCAI052,Natural Language Processing,35,100
+R009,Vivek Maurya,BCS501,Database Management System,46,100
+R009,Vivek Maurya,BCS503,Design and Analysis of Algorithm,69,100
+R009,Vivek Maurya,BCS054,Object Oriented System Design with C++,34,100
+R009,Vivek Maurya,BCDS501,Introduction to Data Analytics and Visualization,92,100
+R009,Vivek Maurya,BCAI052,Natural Language Processing,30,100
+R010,Anjali Rao,BCS501,Database Management System,94,100
+R010,Anjali Rao,BCS503,Design and Analysis of Algorithm,29,100
+R010,Anjali Rao,BCS054,Object Oriented System Design with C++,48,100
+R010,Anjali Rao,BCDS501,Introduction to Data Analytics and Visualization,85,100
+R010,Anjali Rao,BCAI052,Natural Language Processing,90,100
+R011,Harsh Dubey,BCS501,Database Management System,76,100
+R011,Harsh Dubey,BCS503,Design and Analysis of Algorithm,62,100
+R011,Harsh Dubey,BCS054,Object Oriented System Design with C++,81,100
+R011,Harsh Dubey,BCDS501,Introduction to Data Analytics and Visualization,80,100
+R011,Harsh Dubey,BCAI052,Natural Language Processing,68,100
+R012,Pooja Chauhan,BCS501,Database Management System,60,100
+R012,Pooja Chauhan,BCS503,Design and Analysis of Algorithm,53,100
+R012,Pooja Chauhan,BCS054,Object Oriented System Design with C++,45,100
+R012,Pooja Chauhan,BCDS501,Introduction to Data Analytics and Visualization,53,100
+R012,Pooja Chauhan,BCAI052,Natural Language Processing,32,100

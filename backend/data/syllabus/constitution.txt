@@ -1,0 +1,6 @@
+SUBJECT: Constitution of India, Law and Engineering (BNC501)
+MODULE 1: Introduction to Indian Constitution - constitutionalism, historical background of Constituent Assembly, salient features, Preamble, fundamental rights, fundamental duties, directive principles, parliamentary system, federal system, amendments, emergency provisions, local self government.
+MODULE 2: Union and state executive - powers of Parliament, Rajya Sabha, Lok Sabha, President, Prime Minister, judiciary, Supreme Court, judicial review, PIL, judicial activism, Lokpal and Lokayuktas, Governor, Chief Minister, state legislature, High Courts.
+MODULE 3: Legal system - sources of law, court structure in India, consumer forum, tribunals, arbitration, contract law, tort, law at workplace.
+MODULE 4: Intellectual property laws and regulation of information - patents, copyright and infringement, Right to Information Act 2005, Information Technology Act 2000, digital signatures, cyber regulations, offences.
+MODULE 5: Business organizations and e-governance - sole traders, partnerships, companies act, memorandum and articles of association, shares, directors, e-governance and role of engineers.

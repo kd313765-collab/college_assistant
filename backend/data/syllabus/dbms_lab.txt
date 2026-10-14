@@ -1,0 +1,2 @@
+SUBJECT: Database Management Systems Lab (BCS551)
+PROGRAMS: Installing Oracle or MySQL, ER diagrams using case tools, SQL SELECT statements, restricting and sorting data, joins, group functions, DML, creating and managing tables, normalization, cursors, procedures and functions, packages and triggers, payroll processing system, library information system, student information system, backup and recovery, mini project (inventory control, hospital management, railway reservation, timetable management and others).

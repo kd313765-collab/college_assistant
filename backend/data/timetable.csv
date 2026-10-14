@@ -1,0 +1,41 @@
+day,start_time,end_time,subject_code,subject_name,teacher,kind,room
+Monday,09:00,09:50,BCS501,Database Management System,Mr. Ankur Dubey,Lecture,
+Monday,09:50,10:40,BCS503,Design and Analysis of Algorithm,Dr. Shalini Gupta,Lecture,
+Monday,10:50,11:40,BCS054,Object Oriented System Design with C++,Mr. Akash Mishra,Lecture,
+Monday,11:40,12:30,BCDS501,Introduction to Data Analytics and Visualization,Mr. Shubham Chaurasia,Lecture,
+Monday,13:20,14:10,TT501,Technical Training,Mr. Shikhar Shukla,Lab,E Block/First Floor/AITM Lab(B)
+Monday,14:10,15:00,TT501,Technical Training,Mr. Shikhar Shukla,Lab,E Block/First Floor/AITM Lab(B)
+Monday,15:10,16:00,BCAI052,Natural Language Processing,Mr. Deepak Kumar,Lecture,
+Monday,16:00,16:50,BNC501,"Constitution of India, Law and Engineering",Mr. Mohammad Aqib,Lecture,
+Tuesday,09:00,09:50,TT501,Technical Training,Mr. Shikhar Shukla,Lab,E Block/First Floor/AITM Lab(B)
+Tuesday,09:50,10:40,TT501,Technical Training,Mr. Shikhar Shukla,Lab,E Block/First Floor/AITM Lab(B)
+Tuesday,10:50,11:40,BCS553,Design and Analysis of Algorithm Lab,Mr. Puneet Kumar Kushwaha,Lab,E Block/First Floor/AITM Lab(B)
+Tuesday,11:40,12:30,BCS503,Design and Analysis of Algorithm,Dr. Shalini Gupta,Lecture,
+Tuesday,13:20,14:10,BCS501,Database Management System,Mr. Ankur Dubey,Lecture,
+Tuesday,14:10,15:00,BCS054,Object Oriented System Design with C++,Mr. Akash Mishra,Lecture,
+Tuesday,15:10,16:00,BCDS501,Introduction to Data Analytics and Visualization,Mr. Shubham Chaurasia,Lecture,
+Tuesday,16:00,16:50,BCAI052,Natural Language Processing,Mr. Deepak Kumar,Lecture,
+Wednesday,09:00,09:50,BCS501,Database Management System,Mr. Ankur Dubey,Lecture,
+Wednesday,09:50,10:40,BCS503,Design and Analysis of Algorithm,Dr. Shalini Gupta,Lecture,
+Wednesday,10:50,11:40,BCDS501,Introduction to Data Analytics and Visualization,Mr. Shubham Chaurasia,Lecture,
+Wednesday,11:40,12:30,BCS054,Object Oriented System Design with C++,Mr. Akash Mishra,Lecture,
+Wednesday,13:20,14:10,BCAI052,Natural Language Processing,Mr. Deepak Kumar,Lecture,
+Wednesday,14:10,15:00,TTNLP,Natural Language Processing Lab,Dr. Deepak Kumar,Lab,E Block/First Floor/AITM Lab(B)
+Wednesday,15:10,16:00,ET501,Employability Training,Ms. Anjali Maurya,Lecture,
+Wednesday,16:00,16:50,ET501,Employability Training,Ms. Anjali Maurya,Lecture,
+Thursday,09:00,09:50,BNC501,"Constitution of India, Law and Engineering",Mr. Mohammad Aqib,Lecture,
+Thursday,09:50,10:40,BCS503,Design and Analysis of Algorithm,Dr. Shalini Gupta,Lecture,
+Thursday,10:50,11:40,APT501,Aptitude,Mr. Ashish Mishra,Lecture,
+Thursday,11:40,12:30,APT501,Aptitude,Mr. Ashish Mishra,Lecture,
+Thursday,13:20,14:10,BCS554,Mini Project or Internship Assessment,Mr. Alok Dwivedi,Lab,E Block/First Floor/AITM Lab(B)
+Thursday,14:10,15:00,BCDS551,Data Analytics and Visualization Lab,Mr. Shubham Chaurasia,Lab,E Block/First Floor/AITM Lab(B)
+Thursday,15:10,16:00,BCDS501,Introduction to Data Analytics and Visualization,Mr. Shubham Chaurasia,Lecture,
+Thursday,16:00,16:50,BCS501,Database Management System,Mr. Ankur Dubey,Lecture,
+Friday,09:00,09:50,BCDS501,Introduction to Data Analytics and Visualization,Mr. Shubham Chaurasia,Lecture,
+Friday,09:50,10:40,BCS503,Design and Analysis of Algorithm,Dr. Shalini Gupta,Lecture,
+Friday,10:50,11:40,BCS553,Design and Analysis of Algorithm Lab,Mr. Puneet Kumar Kushwaha,Lab,E Block/First Floor/AITM Lab(B)
+Friday,11:40,12:30,BCS501,Database Management System,Mr. Ankur Dubey,Lecture,
+Friday,13:20,14:10,BCS551,Database Management System Lab,Mr. Ankur Dubey,Lab,E Block/First Floor/AITM Lab(B)
+Friday,14:10,15:00,BCS551,Database Management System Lab,Mr. Ankur Dubey,Lab,E Block/First Floor/AITM Lab(B)
+Friday,15:10,16:00,ET501,Employability Training,Ms. Anjali Maurya,Lecture,
+Friday,16:00,16:50,BCAI052,Natural Language Processing,Mr. Deepak Kumar,Lecture,

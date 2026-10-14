@@ -1,0 +1,6 @@
+SUBJECT: Introduction to Data Analytics and Visualization (IDAV) BCDS501
+UNIT 1: Introduction to data analytics - sources and nature of data, structured semi-structured unstructured data, big data platform, need of data analytics, analytic process and tools, analysis vs reporting; data analytics lifecycle (discovery, data preparation, model planning, model building, communicating results, operationalization).
+UNIT 2: Data analysis - regression modeling, multivariate analysis, Bayesian modeling, support vector and kernel methods, time series analysis, rule induction, neural networks, fuzzy logic, stochastic search methods.
+UNIT 3: Mining data streams - stream concepts, stream data model and architecture, sampling data in a stream, filtering streams, counting distinct elements, estimating moments, decaying window, real time analytics platform, real time sentiment analysis, stock market predictions.
+UNIT 4: Frequent itemsets and clustering - mining frequent itemsets, market basket modelling, Apriori algorithm, clustering techniques (hierarchical, K-means), CLIQUE and ProCLUS, clustering for streams.
+UNIT 5: Frameworks and visualization - MapReduce, Hadoop, Pig, Hive, HBase, NoSQL databases, visualization techniques, introduction to R, descriptive statistics, exploratory data analysis.

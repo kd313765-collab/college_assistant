@@ -1,0 +1,6 @@
+SUBJECT: Design and Analysis of Algorithm (DAA) BCS503
+UNIT 1: Introduction - algorithms, analyzing algorithms, complexity of algorithms, growth of functions, performance measurements, sorting and order statistics (Shell sort, quick sort, merge sort, heap sort), comparison of sorting algorithms, sorting in linear time.
+UNIT 2: Advanced data structures - Red-Black trees, B-trees, binomial heaps, Fibonacci heaps, tries, skip list.
+UNIT 3: Divide and conquer (sorting, matrix multiplication, convex hull, searching) and greedy methods (optimal reliability allocation, knapsack, minimum spanning trees with Prim and Kruskal, single source shortest paths with Dijkstra and Bellman-Ford).
+UNIT 4: Dynamic programming (knapsack, all pair shortest paths with Warshall and Floyd, resource allocation), backtracking, branch and bound (travelling salesman problem, graph coloring, n-queen, Hamiltonian cycles, sum of subsets).
+UNIT 5: Selected topics - algebraic computation, fast Fourier transform, string matching, theory of NP-completeness, approximation algorithms, randomized algorithms.
